@@ -23,8 +23,6 @@ public class Demo3Primitive {
 
         boolean isDamaged = true;
         char energyEfficiencyCategory = 'G';
-
-
         System.out.println("2018 Dodge Challenger SRT 392");
         System.out.println("Price: €" + price);
         System.out.println("Mileage: " + mileage + "km");
