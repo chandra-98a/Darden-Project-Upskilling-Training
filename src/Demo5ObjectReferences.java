@@ -5,7 +5,6 @@ public class Demo5ObjectReferences {
         Short horsePower = 392;
         Integer price = 14999;
         Long registrationNumber = 23452352345245234L;
-
         Float fuelConsumptionUrban = 15.5F;
         Double fuelConsumptionPreciseAverage = 15.235252345;
 
