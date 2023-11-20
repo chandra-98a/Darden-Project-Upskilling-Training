@@ -6,6 +6,7 @@ public class Demo2Variables {
         char c='g';
         int sum=a+d;
         float product=b*f;
+        boolean isValid=true;
         System.out.println("sum="+ sum +" product= "+ product);
 
     }
