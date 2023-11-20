@@ -6,7 +6,6 @@ public class Demo4Conversion {
         byte numberOfDoors = 3;
         byte numberOfVehicleOwners = 1;
         byte emissionSticker = 4;
-
         short power = 362;
         short horsePower = 492;
         short co2Emission = 333;
