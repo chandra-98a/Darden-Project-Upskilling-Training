@@ -1,4 +1,4 @@
-public class Demo3 {
+public class Demo3Primitive {
     public static void main(String[] args) {
         byte numberOfSeats = 5;
         byte numberOfDoors = 3;

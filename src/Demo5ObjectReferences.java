@@ -1,4 +1,4 @@
-public class Demo5 {
+public class Demo5ObjectReferences {
 
     public static void main(String[] args) {
         Byte numberOfSeats = 5;

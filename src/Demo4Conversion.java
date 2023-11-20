@@ -1,4 +1,4 @@
-public class Demo4 {
+public class Demo4Conversion {
 
 
     public static void main(String[] args) {

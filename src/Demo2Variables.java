@@ -1,4 +1,4 @@
-public class Demo2 {
+public class Demo2Variables {
     public static void main(String[] args){
         int a=5,d=8;
         float b=2.5f,f=8.9f;
